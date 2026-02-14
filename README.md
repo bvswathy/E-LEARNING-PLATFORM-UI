@@ -45,3 +45,12 @@ The platform is ideal for academic submissions, portfolio projects, hackathons, 
 Future enhancements can include backend authentication, database connectivity, multiple course management, downloadable PDF certificates, analytics dashboard, and mobile responsiveness improvements.
 
 This E-Learning Platform UI represents a comprehensive and practical implementation of modern web development techniques focused on delivering an engaging digital learning experience.
+
+OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/285d2830-bbd5-48a4-a403-3fa9096c99cc" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fbdadc25-2348-4b4f-bdc3-942514cd5242" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1d1bd1fd-cca6-4b5b-bd6d-f268ebd18df6" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1a52dd5c-f240-4c16-a76a-2c087da518b4" />
