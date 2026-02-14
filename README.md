@@ -1,3 +1,14 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME : SWATHY B
+
+INTERN ID : CITS2160
+
+DOMAIN : FRONTEND DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTHOSH
 # E-LEARNING-PLATFORM-UI
 This project is a fully designed and interactive E-Learning Platform User Interface built using HTML, CSS, and JavaScript. The application delivers a modern, responsive, and visually attractive learning environment with a dark blue and pink themed design. It demonstrates how a real-world online learning system works from login to course completion, including progress tracking, video embedding, quiz assessment, and certificate generation — all implemented on the frontend.
 
